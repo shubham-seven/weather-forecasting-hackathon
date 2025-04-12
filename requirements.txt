@@ -1,0 +1,7 @@
+Python 3.12.4
+Streamlit, version 1.32.0
+pandas==2.2.3
+numpy==1.26.4
+joblib==1.4.2
+requests==2.32.2
+scikit-learn==1.4.2
